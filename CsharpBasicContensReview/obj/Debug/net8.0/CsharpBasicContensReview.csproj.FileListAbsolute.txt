@@ -1,0 +1,15 @@
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.AssemblyInfoInputs.cache
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.AssemblyInfo.cs
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.csproj.CoreCompileInputs.cache
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.sourcelink.json
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\bin\Debug\net8.0\CsharpBasicContensReview.exe
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\bin\Debug\net8.0\CsharpBasicContensReview.deps.json
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\bin\Debug\net8.0\CsharpBasicContensReview.runtimeconfig.json
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\bin\Debug\net8.0\CsharpBasicContensReview.dll
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\bin\Debug\net8.0\CsharpBasicContensReview.pdb
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.dll
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\refint\CsharpBasicContensReview.dll
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.pdb
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\CsharpBasicContensReview.genruntimeconfig.cache
+D:\projects\C_Sharp-Course\CsharpBasicContensReview\obj\Debug\net8.0\ref\CsharpBasicContensReview.dll

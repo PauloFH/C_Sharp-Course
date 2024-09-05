@@ -1,11 +1,8 @@
 ﻿
 
-namespace CSharpHelloWorld
-{
-    internal class strings
-    {
-        public static void strings_test()
-        {
+namespace CSharpHelloWorld {
+    internal class strings {
+        public static void strings_test() {
 
             #region String
             string str = "Batata";
@@ -26,8 +23,7 @@ namespace CSharpHelloWorld
             string[]? teste = stringTeste?.Split(',');
             string[] a = { "teste1", "teste" };
             List<string>? list = new List<string>();
-            for (int i = 0; i < list.Count; i++)
-            {
+            for (int i = 0; i < list.Count; i++) {
                 list.Add(list[i].Replace("teste", "erro").Trim());
                 Console.WriteLine(list[i]);
             }
@@ -45,6 +41,18 @@ namespace CSharpHelloWorld
             Console.WriteLine("contem pau em algum lugar da string: " + names.Contains("pau", StringComparison.OrdinalIgnoreCase));//StringComparison.OrdinalIgnoreCase é opcional
             #endregion
 
+        }
+
+        public override bool Equals(object? obj) {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode() {
+            return base.GetHashCode();
+        }
+
+        public override string? ToString() {
+            return base.ToString();
         }
     }
 }
