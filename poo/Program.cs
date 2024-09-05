@@ -2,7 +2,7 @@
 namespace poo {
 
     internal class Program {
-
+        
         private static void Main(string[] args) {
 
             //Class_Methods.Class_Methods_test();
@@ -27,9 +27,12 @@ namespace poo {
 
             //ParamRefst.ParamRefst_test();
 
-            ParamDefault.ParamDefault_test();
-        
-        
+            // ParamDefault.ParamDefault_test();
+            //ObjectO.ObjectO_test();
+
+            //Encapsulation.Encapsulation_test();
+            
+            Abstract.Abstract_test();
         }
     }
 }

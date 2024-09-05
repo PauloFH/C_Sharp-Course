@@ -13,3 +13,7 @@ D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\refint\poo.dll
 D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.pdb
 D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.genruntimeconfig.cache
 D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\ref\poo.dll
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\ClassLibrary.dll
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\ClassLibrary.pdb
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.csproj.AssemblyReference.cache
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.csproj.Up2Date
