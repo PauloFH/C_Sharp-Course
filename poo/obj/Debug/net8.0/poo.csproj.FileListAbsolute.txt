@@ -1,0 +1,15 @@
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\poo.exe
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\poo.deps.json
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\poo.runtimeconfig.json
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\poo.dll
+D:\projects\C_Sharp-Course\poo\bin\Debug\net8.0\poo.pdb
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.AssemblyInfoInputs.cache
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.AssemblyInfo.cs
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.csproj.CoreCompileInputs.cache
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.sourcelink.json
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.dll
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\refint\poo.dll
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.pdb
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\poo.genruntimeconfig.cache
+D:\projects\C_Sharp-Course\poo\obj\Debug\net8.0\ref\poo.dll

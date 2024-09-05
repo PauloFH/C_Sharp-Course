@@ -1,10 +1,7 @@
 ﻿
-namespace CSharpHelloWorld
-{
-    internal class variables
-    {
-        public static void variables_test()
-        {
+namespace CSharpHelloWorld {
+    internal class Variables {
+        public static void variables_test() {
             #region Variables
             char ch = 'a';
             bool bul = false;
@@ -13,9 +10,11 @@ namespace CSharpHelloWorld
             decimal dec = 3.3M;
             float flt = 4.3f;
             double doub = 6.7;
+            dynamic dy = 3;
             #endregion
 
             #region Conversões
+            Console.WriteLine($"valor Dynamic: {dy}");
             double intToDouble = interger; //conversão implícita
             int doubleToInt = (int)intToDouble; //conversão explícita
             string stringToDouble = "3.6";
@@ -24,6 +23,8 @@ namespace CSharpHelloWorld
             interger = Int32.Parse(stringToInt); // conversão com parse
             interger = Convert.ToInt32(intToDouble); // Conversão com Convert
             doub = Convert.ToDouble(stringToDouble);// conversão com Convert 
+            dy = "df";
+            Console.WriteLine($"valor Dynamic: {dy}");
             #endregion
 
 

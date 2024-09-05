@@ -1,10 +1,7 @@
 ﻿
-namespace CSharpHelloWorld
-{
-    internal class conditions
-    {   
-        public static void conditions_test()
-        {
+namespace CSharpHelloWorld {
+    internal class conditions {
+        public static void conditions_test() {
             int operadorTeste = 0;
 
             #region Estruturas de Condicao
@@ -12,23 +9,17 @@ namespace CSharpHelloWorld
             //if and else
 #if true
 
-            if (operadorTeste < 0)
-            {
+            if (operadorTeste < 0) {
                 Console.WriteLine("Menor");
 
-            }
-            else if (operadorTeste == 0)
-            {
+            } else if (operadorTeste == 0) {
 
-            }
-            else
-            {
+            } else {
                 Console.WriteLine("Maior");
             }
 #endif
             //switch case
-            switch (operadorTeste)
-            {
+            switch (operadorTeste) {
                 case 0:
                     Console.WriteLine("Zero");
                     break;

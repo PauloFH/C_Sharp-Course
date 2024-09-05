@@ -6,20 +6,16 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpHelloWorld
-{
-    internal class directories
-    {
-        public static void directories_test()
-        {
+namespace CSharpHelloWorld {
+    internal class directories {
+        public static void directories_test() {
             string folderName = "diretorio";
             string subFolderName = "subDiretorio";
             string subFolderWithStaticDdirectory = "subStaticDiretory";
 
             DirectoryInfo directoryInfoSubfolder = new DirectoryInfo(subFolderName);
 
-            if (!Directory.Exists(subFolderName) || !directoryInfoSubfolder.Exists)
-            {
+            if (!Directory.Exists(subFolderName) || !directoryInfoSubfolder.Exists) {
                 Directory.CreateDirectory(subFolderWithStaticDdirectory);
                 directoryInfoSubfolder.Create();
                 Directory.CreateDirectory(folderName);
@@ -32,8 +28,7 @@ namespace CSharpHelloWorld
             var full = directoryInfoSubfolder.FullName;
             var exist = directoryInfoSubfolder.Exists;
 
-            foreach (var direc in Directory.GetDirectories(folderName))
-            {
+            foreach (var direc in Directory.GetDirectories(folderName)) {
                 Console.WriteLine(direc);
 
 
@@ -44,9 +39,8 @@ namespace CSharpHelloWorld
             #region Files
 
             string file = @$"{folderName}\text.txt";
-            if (!File.Exists(file))
-            {
-                File.CreateText(file); 
+            if (!File.Exists(file)) {
+                File.CreateText(file);
             }
 
             FileInfo fileInfo = new FileInfo(file);

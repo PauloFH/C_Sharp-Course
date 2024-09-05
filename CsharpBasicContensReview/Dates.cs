@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpHelloWorld
-{
-    internal class Dates
-    {
-        public static void Dates_test()
-        {
+namespace CSharpHelloWorld {
+    internal class Dates {
+        public static void Dates_test() {
             #region DataTime
             DateTime now = DateTime.Now;
             Console.WriteLine("data de agora: " + now);
@@ -34,14 +31,11 @@ namespace CSharpHelloWorld
             var dayOfWeek = now.DayOfWeek;
 
             Console.WriteLine(now.TimeOfDay + "\n");
-            Console.WriteLine("Dia da semana :"+ dayOfWeek);
+            Console.WriteLine("Dia da semana :" + dayOfWeek);
 
-            if (!(dayOfWeek == DayOfWeek.Saturday) || !(dayOfWeek == DayOfWeek.Sunday))
-            {
+            if (!(dayOfWeek == DayOfWeek.Saturday) || !(dayOfWeek == DayOfWeek.Sunday)) {
                 Console.WriteLine("Dia de semana!!!!");
-            }
-            else
-            {
+            } else {
                 Console.WriteLine("Fim de semana");
             }
             Console.WriteLine(now.DayOfYear);
@@ -51,8 +45,7 @@ namespace CSharpHelloWorld
             var formats = new string[] { "d", "D", "f", "F", "g", "G", "m", "o", "r", "s", "t",
                 "T", "u", "U", "Y"};
 
-            foreach (var format in formats)
-            {
+            foreach (var format in formats) {
                 Console.WriteLine("data formatada em formato {0}: {1}", format, DateTime.Now.ToString(format));
             }
             Console.WriteLine("Datas usando interpolação de string");
@@ -63,6 +56,6 @@ namespace CSharpHelloWorld
             Console.WriteLine($"Data americana: {now:MM/dd/yyyy HH:mm:ss:fff}");
 
             #endregion
-        }  
+        }
     }
 }

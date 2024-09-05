@@ -1,0 +1,15 @@
+D:\projects\C_Sharp-Course\Colections\bin\Debug\net6.0\Colections.exe
+D:\projects\C_Sharp-Course\Colections\bin\Debug\net6.0\Colections.deps.json
+D:\projects\C_Sharp-Course\Colections\bin\Debug\net6.0\Colections.runtimeconfig.json
+D:\projects\C_Sharp-Course\Colections\bin\Debug\net6.0\Colections.dll
+D:\projects\C_Sharp-Course\Colections\bin\Debug\net6.0\Colections.pdb
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.AssemblyInfoInputs.cache
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.AssemblyInfo.cs
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.csproj.CoreCompileInputs.cache
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.sourcelink.json
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.dll
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\refint\Colections.dll
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.pdb
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\Colections.genruntimeconfig.cache
+D:\projects\C_Sharp-Course\Colections\obj\Debug\net6.0\ref\Colections.dll

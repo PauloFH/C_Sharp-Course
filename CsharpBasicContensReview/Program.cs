@@ -1,12 +1,13 @@
 ﻿
 
-namespace CSharpHelloWorld
-{
-    internal class Program
-    {
-        private static void Main(string[] args)
-        {
-            //variables.variables_test();
+using CsharpBasicContensReview;
+
+namespace CSharpHelloWorld {
+    internal class Program {
+        private static void Main(string[] args) {
+            // Variables.variables_test();
+
+            //InterData.InterData_test();
 
             //ListAndArrays.listAndArrays_test();
 
@@ -20,8 +21,10 @@ namespace CSharpHelloWorld
 
             //Dates.Dates_test();
 
-            directories.directories_test();
-            
+            //directories.directories_test();
+
+            Structs1.Structs_test();
+
             Console.Read();
         }
     }

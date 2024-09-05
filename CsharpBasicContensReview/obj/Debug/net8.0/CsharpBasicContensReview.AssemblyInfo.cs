@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpBasicContensReview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66d47ee2025f1021a5786055532de8d4f5e46eea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d57c2099137f6583206be943e15192f9392943")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpBasicContensReview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpBasicContensReview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
