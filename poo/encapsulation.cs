@@ -18,7 +18,7 @@ namespace poo
         public class Fan {
 
             public readonly Famous friend = new Famous();
-            public new void Info() {
+            public void Info() {
                 Console.WriteLine(friend.publicInfo);
                 //Console.WriteLine(friend.social);
                 //Console.WriteLine(friend.cellphone);

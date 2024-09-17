@@ -31,8 +31,10 @@ namespace poo {
             //ObjectO.ObjectO_test();
 
             //Encapsulation.Encapsulation_test();
-            
-            Abstract.Abstract_test();
+
+            //Abstract.Abstract_test();
+            //Delgate.Delgate_test();
+            Events.Events_test();
         }
     }
 }
