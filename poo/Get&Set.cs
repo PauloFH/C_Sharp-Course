@@ -39,11 +39,11 @@
     class Props {
 
         public static void Props_test() {
-            Props.person P = new();
+            Props.Person P = new();
             P.Name = "Test";
 
         }
-        class person {
+        class Person {
             private string name;
             public string Name {
                 set { name = (value != string.Empty || value.Trim() != "") ? value : "nome"; }
@@ -53,7 +53,7 @@
 
         }
         class Product {
-            private int _amount = 0;
+           
             private decimal _price;
             private decimal _discount;
             public decimal PriceDisconted {

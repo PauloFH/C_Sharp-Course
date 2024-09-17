@@ -4,26 +4,26 @@ using System.Globalization;
 namespace poo {
     internal class Constructors {
         public static void Constructors_test() {
-            var car1 = new Car();
-            car1.Manufacture = "bmw";
-            car1.Age = 2010;
-            car1.Model = "320i";
+            var CarOld1 = new CarOld();
+            CarOld1.Manufacture = "bmw";
+            CarOld1.Age = 2010;
+            CarOld1.Model = "320i";
 
-            Car car2 = new Car("Hammer","gmc",2023 );
-            Console.WriteLine($"First car: \n{car1.ToString()}\n" +
-                $"Second Car:\n{car2.ToString()}");
+            CarOld CarOld2 = new CarOld("Hammer","gmc",2023 );
+            Console.WriteLine($"First CarOld: \n{CarOld1.ToString()}\n" +
+                $"Second CarOld:\n{CarOld2.ToString()}");
         }
 
     }
     
-    class Car {
+   class CarOld {
         public string? Model;
         public string? Manufacture;
         public int? Age;
 
-        public Car() {}
+        public CarOld() {}
 
-        public Car(string Model, string Manufacture, int Age) {
+        public CarOld(string Model, string Manufacture, int Age) {
             this.Model = Model;
             this.Manufacture = Manufacture;
             this.Age = Age;
